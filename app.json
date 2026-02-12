@@ -1,7 +1,7 @@
 {
   "name": "Telegram 2FA Bot",
   "description": "A simple Telegram bot for 2FA verification.",
-  "repository": "https://github.com/DAXXTEAM/2FA",
+  "repository": "https://github.com/chaudharyji0805-bot/passchange",
   "logo": "https://avatars.githubusercontent.com/u/9919",
   "keywords": ["telegram", "bot", "2fa", "security"],
   "buildpacks": [
