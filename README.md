@@ -17,7 +17,7 @@ A **Telegram 2FA verification bot** that helps users secure their accounts with 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXTEAM/2FA"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/chaudharyji0805-bot/passchange"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
 
 #### **Step 2:** Set Environment Variables
 - `BOT_TOKEN` → Your Telegram Bot Token
